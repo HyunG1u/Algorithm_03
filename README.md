@@ -6,6 +6,6 @@
 #### 3. Test Accuracy
 ![TestAccyracy](https://user-images.githubusercontent.com/58351289/83593270-500e9880-a597-11ea-9b7c-4a4d1eb8b7e9.PNG)
 #### 4. Images and corresponding probability that predicted Right 
-![image](https://user-images.githubusercontent.com/58351289/83593289-5c92f100-a597-11ea-8187-8cbc92d03f5a.PNG)
-#### 5. Images and corresponding probability that predicted Wrong
 ![corresponding](https://user-images.githubusercontent.com/58351289/83593313-687eb300-a597-11ea-8c42-08f4aa346fd1.PNG)
+#### 5. Images and corresponding probability that predicted Wrong
+![image](https://user-images.githubusercontent.com/58351289/83593289-5c92f100-a597-11ea-8187-8cbc92d03f5a.PNG)
